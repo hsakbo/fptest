@@ -1,0 +1,6 @@
+failed.log
+pytest.log
+__pycache__/
+.pytest_cache
+geckodriver.log
+venv/
