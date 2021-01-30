@@ -1,3 +1,8 @@
+# Requirement:<br>
+- geckodriver (for ubuntu/debian: `sudo apt-get install geckodriver`, arch/manjaro: `sudo pacman -Sy geckodriver`)
+- python and pip
+- firefox
+
 # Install<br>
 ```
 python3 -m venv venv
